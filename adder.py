@@ -21,7 +21,7 @@ print (re+" ╩ └─┘┴─┘└─┘╚═╝  ╩ ╩─┴┘─┴┘�
 
 print (cy+"version : 1.01")
 print (cy+"Make sure you Joined Filmy Hangama On Telegram")
-print (cy+"https//:t,me/Filmy_Hangama")
+print (cy+"https://t,me/Filmy_Hangama")
 
 print (re+"NOTE :")
 print ("1. Telegram only allow to add 200 members in group by one user.")
