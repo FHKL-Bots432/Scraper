@@ -18,7 +18,7 @@ def banner():
 
               Version : 1.01
  {re}Subscribe Termux Professor on Youtube.
-   {cy}www.youtube.com/c/TermuxProfessorYT
+   {cy}t.me/FHKL_TEAM
         """)
 
 cpass = configparser.RawConfigParser()
